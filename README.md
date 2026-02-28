@@ -16,7 +16,7 @@ Fully compatible with:
 
 ## 🎥 Preview
 YouTube:
-https://youtu.be/CmEO9HqPNRY
+[https://youtu.be/CmEO9HqPNRY](https://www.youtube.com/watch?v=4q4BGjRpvlE)
 
 Config:
 https://imgur.com/a/steff-scripts-black-market-config-file-KHSCkQv
