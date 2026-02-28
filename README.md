@@ -1,15 +1,15 @@
 # 🔫 Advanced QBCore Black Market
 
 A fully immersive and secure black market system built for **QBCore**
-servers.\
+servers.
 Designed for serious RP environments with dynamic drops, cart checkout,
 server-side validation, and deep configuration support.
 
 Fully compatible with:
 
--   ox_lib\
--   ox_inventory\
--   ox_target\
+-   ox_lib
+-   ox_inventory
+-   ox_target
 -   qb-core
 
 ------------------------------------------------------------------------
@@ -17,6 +17,7 @@ Fully compatible with:
 ## 🎥 Preview
 YouTube:
 https://youtu.be/CmEO9HqPNRY
+
 Config:
 https://imgur.com/a/steff-scripts-black-market-config-file-KHSCkQv
 
@@ -26,7 +27,7 @@ https://imgur.com/a/steff-scripts-black-market-config-file-KHSCkQv
 
 ## 🕵️ Mobile Black Market NPC
 
-A dynamically moving PED seller appears at configured locations.\
+A dynamically moving PED seller appears at configured locations.
 After a configurable timer expires, the NPC relocates --- keeping the
 operation unpredictable and hidden.
 
@@ -58,8 +59,8 @@ No instant inventory rewards --- fully immersive delivery mechanics.
 
 Supports:
 
--   Cash\
--   Bank\
+-   Cash
+-   Bank
 -   black_money
 
 All prices are validated server-side to prevent exploits.
@@ -70,11 +71,11 @@ All prices are validated server-side to prevent exploits.
 
 Built with exploit prevention in mind:
 
--   Server-side price validation\
--   Order cooldown system\
--   PED proximity checks\
--   Drop validation\
--   Anti-spam protections\
+-   Server-side price validation
+-   Order cooldown system
+-   PED proximity checks
+-   Drop validation
+-   Anti-spam protections
 -   Anti-client spoofing logic
 
 ------------------------------------------------------------------------
@@ -83,21 +84,21 @@ Built with exploit prevention in mind:
 
 Customize nearly everything:
 
--   PED spawn locations\
--   Drop zones\
--   Items & pricing\
--   Payment types\
--   Delivery timers\
--   Lock code system\
--   Animations & progress bars\
--   Webhook logging\
+-   PED spawn locations
+-   Drop zones
+-   Items & pricing
+-   Payment types
+-   Delivery timers
+-   Lock code system
+-   Animations & progress bars
+-   Webhook logging
 -   Language support
 
 ------------------------------------------------------------------------
 
 ## 🌍 Multi-Language Support
 
-Includes **14 languages** by default.\
+Includes **14 languages** by default.
 Add your own easily through the `locales` folder.
 
 ------------------------------------------------------------------------
@@ -106,9 +107,9 @@ Add your own easily through the `locales` folder.
 
 Log:
 
--   Orders\
--   Payments\
--   Deliveries\
+-   Orders
+-   Payments
+-   Deliveries
 -   Player identifiers
 
 ------------------------------------------------------------------------
@@ -141,16 +142,16 @@ ensure steff_blackmarket
 
 # 📦 Dependencies
 
--   qb-core\
--   ox_lib\
--   ox_inventory\
+-   qb-core
+-   ox_lib
+-   ox_inventory
 -   ox_target
 
 ------------------------------------------------------------------------
 
 # ⭐ Support
 
-If you like the script, consider giving the repository a ⭐\
+If you like the script, consider giving the repository a ⭐
 It helps support future updates.
 
 ------------------------------------------------------------------------
