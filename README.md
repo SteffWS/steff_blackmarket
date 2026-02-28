@@ -4,6 +4,9 @@ A fully customizable, secure black market script built for **QBCore** using **ox
 
 ---
 
+## Config
+https://imgur.com/a/steff-scripts-black-market-config-file-KHSCkQv
+
 ## 📘 Overview
 
 Steff Blackmarket enables immersive criminal trading with:
