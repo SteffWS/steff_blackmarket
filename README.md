@@ -1,9 +1,6 @@
 # 🔫 Advanced QBCore Black Market
 
-A fully immersive and secure black market system built for **QBCore**
-servers.
-Designed for serious RP environments with dynamic drops, cart checkout,
-server-side validation, and deep configuration support.
+This script used to be paid, but I’ve decided to make it free to allow more people to use it..
 
 Fully compatible with:
 
@@ -12,16 +9,12 @@ Fully compatible with:
 -   ox_target
 -   qb-core
 
-------------------------------------------------------------------------
-
 ## 🎥 Preview
 YouTube:
 [https://youtu.be/CmEO9HqPNRY](https://www.youtube.com/watch?v=4q4BGjRpvlE)
 
 Config:
 https://imgur.com/a/steff-scripts-black-market-config-file-KHSCkQv
-
-------------------------------------------------------------------------
 
 # 🔥 Features
 
@@ -30,8 +23,6 @@ https://imgur.com/a/steff-scripts-black-market-config-file-KHSCkQv
 A dynamically moving PED seller appears at configured locations.
 After a configurable timer expires, the NPC relocates --- keeping the
 operation unpredictable and hidden.
-
-------------------------------------------------------------------------
 
 ## 📦 Physical Drop-Off System
 
@@ -44,16 +35,12 @@ After placing an order:
 
 No instant inventory rewards --- fully immersive delivery mechanics.
 
-------------------------------------------------------------------------
-
 ## 🛒 Cart & Multi-Item Checkout
 
 -   Categorized menus (Weapons, Ammo, Drugs, Components)
 -   Add multiple items to cart
 -   Checkout everything at once
 -   Clean UI powered by ox_lib context menu
-
-------------------------------------------------------------------------
 
 ## 💰 Secure Payment System
 
@@ -65,8 +52,6 @@ Supports:
 
 All prices are validated server-side to prevent exploits.
 
-------------------------------------------------------------------------
-
 ## 🛡️ Server-Side Security
 
 Built with exploit prevention in mind:
@@ -77,8 +62,6 @@ Built with exploit prevention in mind:
 -   Drop validation
 -   Anti-spam protections
 -   Anti-client spoofing logic
-
-------------------------------------------------------------------------
 
 # ⚙️ Fully Configurable
 
@@ -94,14 +77,10 @@ Customize nearly everything:
 -   Webhook logging
 -   Language support
 
-------------------------------------------------------------------------
-
 ## 🌍 Multi-Language Support
 
 Includes **14 languages** by default.
 Add your own easily through the `locales` folder.
-
-------------------------------------------------------------------------
 
 ## 📡 Discord Webhook Logging
 
@@ -111,8 +90,6 @@ Log:
 -   Payments
 -   Deliveries
 -   Player identifiers
-
-------------------------------------------------------------------------
 
 # 🛠️ Installation
 
@@ -138,8 +115,6 @@ Add the following line:
 ensure steff_blackmarket
 ```
 
-------------------------------------------------------------------------
-
 # 📦 Dependencies
 
 -   qb-core
@@ -147,14 +122,10 @@ ensure steff_blackmarket
 -   ox_inventory
 -   ox_target
 
-------------------------------------------------------------------------
-
 # ⭐ Support
 
 If you like the script, consider giving the repository a ⭐
 It helps support future updates.
-
-------------------------------------------------------------------------
 
 # 🎯 SEO
 
